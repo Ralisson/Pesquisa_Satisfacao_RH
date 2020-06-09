@@ -5,7 +5,7 @@
 
 # Diretório de trabalho
 getwd()
-setwd("C:/Users/ralis/Google Drive/Ciencia_dados/DSA/FAECD/Mini_projetos/Mini_projeto_RH")
+setwd("Dados/Mini_projeto_RH")
 
 # Pacotes
 library(ggplot2)
